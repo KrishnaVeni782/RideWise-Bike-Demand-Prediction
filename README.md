@@ -28,3 +28,11 @@ To help bike-sharing companies forecast demand and manage bike availability effi
 - Predicted bike demand
 - Performance metrics (MAE, R2 Score)
 - Graph visualization of predictions
+
+## Project Output
+
+### Output Graph
+![Output Graph](output_graph.png)
+
+### Sample Console Output
+See the file: output.txt
