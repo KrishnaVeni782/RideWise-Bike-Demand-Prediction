@@ -1,0 +1,22 @@
+PS C:\Users\chinn\ridewise> python ridewise.py
+Matplotlib is building the font cache; this may take a moment.
+🚲 RideWise Project Started...
+
+Dataset Preview:
+   temperature  humidity  windspeed  holiday  workingday  count
+0           30        60         12        0           1    200
+1           28        65         10        0           1    180
+2           35        55         15        0           1    250
+3           22        80          8        1           0     90
+4           25        70          9        0           1    150
+
+Model Training Completed Successfully!
+
+📊 Model Evaluation:
+Mean Absolute Error: 3.47
+R2 Score: 0.98
+
+🔮 Predicting Bike Demand for New Weather Data...
+C:\Users\chinn\AppData\Local\Programs\Python\Python314\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+Predicted Bike Demand: 193 bikes
